@@ -1,0 +1,2 @@
+# scalaPrac
+My scala practice 
